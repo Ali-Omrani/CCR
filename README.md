@@ -102,15 +102,12 @@ ccr_wrapper(). See a complete list of all possible models on
 conda create --name ccr python==3.9
 ```
 
-- Activate the environment
+- Activate the environment and install CCR module
 ```
 conda activate ccr
-```
-
-- Install the requirements
-```
 pip install pyccr
 ```
+
 
 ## Usage
 
