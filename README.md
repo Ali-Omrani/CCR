@@ -92,7 +92,7 @@ ccr_wrapper(). See a complete list of all possible models on
 
 # CCR Python Package
 
-# Steps
+# Installation
 
 - Make sure you have [Anaconda](https://www.anaconda.com/).
 
@@ -109,7 +109,14 @@ conda activate ccr
 
 - Install the requirements
 ```
-pip install -r requirements.txt
+pip install pyccr
+```
+
+## Usage
+
+```
+from ccr import *
+ccr_result_dataframe = ccr.ccr_wrapper(user_data_file, data_col, questionnaire_file, question_col):
 ```
 
 
