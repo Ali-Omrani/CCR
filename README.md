@@ -28,7 +28,7 @@ as follows:
     higher the text scores on the construct of interest.
 
 CCR can be used in  
-- Online Tool
+- [Online Tool](https://huggingface.co/spaces/Ali-Omrani/CCR)
 - [R Package](#ccr-r-package) 
 - [Python Package](#ccr-python-package)
 
