@@ -1,5 +1,5 @@
 # Contextualized Construct Representations (CCR)
-
+![CCR Pipeline visualized](./img/ccr%20steps.png)
 
 ## Introduction
 
