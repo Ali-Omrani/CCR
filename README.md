@@ -114,7 +114,7 @@ pip install pyccr
 
 ## Usage
 
-```
+```python
 from ccr import *
 ccr_result_dataframe = ccr.ccr_wrapper(user_data_file, data_col, questionnaire_file, question_col):
 ```
