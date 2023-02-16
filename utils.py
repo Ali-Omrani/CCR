@@ -24,8 +24,22 @@ def item_level_ccr(data_encoded_df, questionnaire_encoded_df):
     return data_encoded_df
 
 
-def ccr_wrapper(data_file, data_col, q_file, q_col):
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+def ccr_wrapper(data_file, data_col, q_file, q_col, model='all-MiniLM-L6-v2'):
+    """
+    Returns a Dataframe that is the content of data_file with one additional column for CCR value per question
+
+    Parameters:
+        data_file (str): path to the file containing user text
+        data_col (str): column that includes user text
+        q_file (str): path to the file containing questionnaires
+        q_col (str): column that includes questions
+        model (str): name of the SBERT model to use for CCR see https://www.sbert.net/docs/pretrained_models.html for full list
+
+    """
+    try:
+        model = SentenceTransformer(model)
+    except:
+        model = SentenceTransformer('all-MiniLM-L6-v2')
     questionnaire_filename = q_file
     data_filename = data_file
 
