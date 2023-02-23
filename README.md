@@ -31,7 +31,7 @@ as follows:
 
 
 <p align="center"><font size="+2">
-<a href="https://huggingface.co/spaces/Ali-Omrani/CCR">Try CCR Now!</a>
+<a href="https://huggingface.co/spaces/Ali-Omrani/CCR"> CCR Demo</a>
 </font>  </p>
 
 ![CCR Pipeline visualized](./img/Demo-screenshot.png)
