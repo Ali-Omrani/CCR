@@ -30,11 +30,11 @@ as follows:
     higher the text scores on the construct of interest.
 
 
-<p align="center"><font size="+3">
+<!-- <p align="center"><font size="+3">
 <a href="https://huggingface.co/spaces/Ali-Omrani/CCR"> CCR Demo</a>
 </font>  </p>
 
-![CCR Pipeline visualized](./img/Demo-screenshot.png)
+![CCR Pipeline visualized](./img/Demo-screenshot.png) -->
 
 
 CCR can be used in  
