@@ -34,7 +34,7 @@ as follows:
 <a href="https://huggingface.co/spaces/Ali-Omrani/CCR">Try CCR Now!</a>
 </font>  </p>
 
-![CCR Pipeline visualized](./img/ccr%20steps.png)
+![CCR Pipeline visualized](./img/Demo-screenshot.png)
 
 
 CCR can be used in  
