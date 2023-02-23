@@ -30,7 +30,7 @@ as follows:
     higher the text scores on the construct of interest.
 
 
-<p align="center"><font size="+2">
+<p align="center"><font size="+4">
 <a href="https://huggingface.co/spaces/Ali-Omrani/CCR"> CCR Demo</a>
 </font>  </p>
 
