@@ -1,6 +1,8 @@
 # Contextualized Construct Representations (CCR)
 ![CCR Pipeline visualized](./img/ccr%20steps.png)
 
+
+
 ## Introduction
 
 This package is an implementation of our new method for theory-driven
@@ -26,6 +28,14 @@ as follows:
     of psychometric scale items (e.g., using cosine similarity) to
     arrive at a set of “loading” scores. The higher this similarity, the
     higher the text scores on the construct of interest.
+
+
+<p align="center"><font size="+2">
+<a href="https://huggingface.co/spaces/Ali-Omrani/CCR">Try CCR Now!</a>
+</font>  </p>
+
+![CCR Pipeline visualized](./img/ccr%20steps.png)
+
 
 CCR can be used in  
 - [Online Tool](https://huggingface.co/spaces/Ali-Omrani/CCR)
